@@ -1,4 +1,4 @@
-// ToDO: review later if it's alright. Copyright: Suvash 
+// TODO: review later if it's alright. added after test finished just for myself
 
 var fs = require('fs');
 path=__dirname;
