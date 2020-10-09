@@ -1,4 +1,4 @@
-// TODO: review later if it's alright. added after test finished just for myself
+// TODO: review later if it's working as expected
 
 var fs = require('fs');
 path=__dirname;
